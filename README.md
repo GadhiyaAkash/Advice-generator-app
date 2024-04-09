@@ -6,7 +6,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -28,21 +27,21 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Advice Generator App](https://gadhiyaakash.github.io/advice-generator-app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
+- CSS
+- JavaScript
 - Mobile-first workflow
+
+### Useful resources
+
+- [Advice Slip APIs](https://api.adviceslip.com) - This helped me for get real time random advice. I really liked website.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [Gadhiya Akash](https://gadhiyaakash.github.io/)

@@ -7,7 +7,7 @@ async function getAdvice() {
         const content = await response.json();
         setAdviceValues('&ldquo;' + content['slip'].advice + '&rdquo;', content['slip'].id);
     } catch (error) {
-        setAdviceValues("Reload to get updated advice", 1);
+        setAdviceValues("Reload the page to get updated advice", 1);
     }
 }
 
